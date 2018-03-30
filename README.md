@@ -5,7 +5,7 @@ e-mail: hassanzadeh.hanieh@gmail.com
 
 # **Finding Lane Lines on the Road**
 
-The aim of this project is to detects the lane lines on the road, used by self driving cars. It is the first project of Udacity's Self-Driving Car Engineer Nanodegree Program.
+The aim of this project is to detect the lane lines on the road, used by self driving cars. It is the first project of Udacity's Self-Driving Car Engineer Nanodegree Program.
 
 
 ## Overview
